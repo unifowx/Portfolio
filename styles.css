@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+  }
+  
+  .center-text {
+    text-align: center;
+  }
+  
+  h1 {
+    color: darkslateblue;
+    margin: 0; /* Remove default margins */
+  }
+  
+  h4 {
+    margin: 10px 0 0; /* Add spacing between h1 and h4 */
+    color: black;
+  }
+  
