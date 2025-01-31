@@ -12,12 +12,18 @@ body {
   }
   
   h1 {
+    font-size: 50px;
+    font-family: Inter, sans-serif;
     color: darkslateblue;
     margin: 0; /* Remove default margins */
   }
   
   h4 {
+    font-size: 20px;
+    font-family: Inter, sans-serif;
     margin: 10px 0 0; /* Add spacing between h1 and h4 */
-    color: black;
+    color: rgb(81, 81, 81);
+    line-height: 1.5;
   }
-  
+
+ 
